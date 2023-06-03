@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\halcon_chepai\bin\Debug\halcon_chepai.exe
+C:\Users\Administrator\source\repos\halcon_chepai\bin\Debug\halcon_chepai.pdb
+C:\Users\Administrator\source\repos\halcon_chepai\bin\Debug\halcondotnet.dll
+C:\Users\Administrator\source\repos\halcon_chepai\bin\Debug\halcondotnet.xml
+C:\Users\Administrator\source\repos\halcon_chepai\obj\Debug\halcon_chepai.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\halcon_chepai\obj\Debug\halcon_chepai.Form1.resources
+C:\Users\Administrator\source\repos\halcon_chepai\obj\Debug\halcon_chepai.Properties.Resources.resources
+C:\Users\Administrator\source\repos\halcon_chepai\obj\Debug\halcon_chepai.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\halcon_chepai\obj\Debug\halcon_chepai.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\halcon_chepai\obj\Debug\halcon_chepai.csproj.CopyComplete
+C:\Users\Administrator\source\repos\halcon_chepai\obj\Debug\halcon_chepai.exe
+C:\Users\Administrator\source\repos\halcon_chepai\obj\Debug\halcon_chepai.pdb
